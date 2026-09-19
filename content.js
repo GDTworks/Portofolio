@@ -110,5 +110,64 @@ window.GDT_CONTENT = {
       "description": "Setelah pengerjaan selesai dan pelunasan dilakukan, kit disiapkan untuk dikirim atau diserahkan sesuai kesepakatan dengan pelanggan."
     }
   ],
-  "progress": []
+  "progress": [
+  {
+    "id": "order-adea7374312a",
+    "date": "2026-09-19",
+    "title": "atma",
+    "projectCode": "shope-112",
+    "stage": "repaint",
+    "description": "full repaint",
+    "percentage": 50,
+    "status": "production",
+    "photos": [
+      {
+        "image": "assets/order-fc4f2041860b47bc8da881401d34caa6.jpeg",
+        "alt": "Foto 1 pesanan atma"
+      },
+      {
+        "image": "assets/order-e6c9a0e62c764996af0c22ed40069c73.jpeg",
+        "alt": "Foto 2 pesanan atma"
+      },
+      {
+        "image": "assets/order-13e8f4f6ae974dd28f617f6d375484f5.jpeg",
+        "alt": "Foto 3 pesanan atma"
+      },
+      {
+        "image": "assets/order-357a91723d714ab692855264bca58496.jpeg",
+        "alt": "Foto 4 pesanan atma"
+      }
+    ],
+    "timeline": []
+  },
+  {
+    "id": "order-355716a6715f",
+    "date": "2026-09-19",
+    "title": "sigantenk",
+    "projectCode": "shope-002",
+    "stage": "ngocok",
+    "description": "ngocok full",
+    "percentage": 100,
+    "status": "shipping",
+    "photos": [
+      {
+        "image": "assets/order-629d073ba81b4ee6ab10982ce26abcea.jpg",
+        "alt": "Foto 1 pesanan sigantenk"
+      },
+      {
+        "image": "assets/order-cc2fc0e7ab354883a0a7ae148477836a.jpg",
+        "alt": "Foto 2 pesanan sigantenk"
+      },
+      {
+        "image": "assets/order-afb2108c3f7f4597ac4bc6b2d60c5282.jpg",
+        "alt": "Foto 3 pesanan sigantenk"
+      },
+      {
+        "image": "assets/order-bd49a080d4be4740a9309014eaaaa3e8.jpg",
+        "alt": "Foto 4 pesanan sigantenk"
+      }
+    ],
+    "timeline": []
+  }
+]
 };
