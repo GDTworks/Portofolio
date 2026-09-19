@@ -110,39 +110,5 @@ window.GDT_CONTENT = {
       "description": "Setelah pengerjaan selesai dan pelunasan dilakukan, kit disiapkan untuk dikirim atau diserahkan sesuai kesepakatan dengan pelanggan."
     }
   ],
-  "progress": [
-  {
-    "id": "order-1936c54bc7f3",
-    "date": "2026-09-17",
-    "title": "ATMA GANTENK",
-    "projectCode": "Shope-001",
-    "stage": "PEMOTONGAN",
-    "description": "Pemotongan Akhir",
-    "percentage": 22,
-    "status": "production",
-    "photos": [
-      {
-        "image": "assets/order-6ffaf529d41644d5932f7d6b27e4c5e3.jpeg",
-        "alt": "Foto 1 pesanan ATMA GANTENK"
-      },
-      {
-        "image": "assets/order-a0bca3ffdb4247a480b00bd7f877d5b8.jpeg",
-        "alt": "Foto 2 pesanan ATMA GANTENK"
-      },
-      {
-        "image": "assets/order-1a2482e131174940a78df80d19658a5a.jpeg",
-        "alt": "Foto 3 pesanan ATMA GANTENK"
-      },
-      {
-        "image": "assets/order-db4e948ba902484cb667fd5680de97c8.jpeg",
-        "alt": "Foto 4 pesanan ATMA GANTENK"
-      },
-      {
-        "image": "assets/order-409bce2aee0d4b28affa610b7da818a2.jpeg",
-        "alt": "Foto 5 pesanan ATMA GANTENK"
-      }
-    ],
-    "timeline": []
-  }
-]
+  "progress": []
 };
