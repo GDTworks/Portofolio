@@ -145,7 +145,7 @@ window.GDT_CONTENT = {
     "date": "2026-09-19",
     "title": "sigantenk",
     "projectCode": "shope-002",
-    "stage": "ngocok",
+    "stage": "repair",
     "description": "ngocok full",
     "percentage": 100,
     "status": "shipping",
